@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinemaConsoleVer", "CinemaConsoleVer\CinemaConsoleVer.csproj", "{CED77467-87A0-46D1-B3C8-F6E1B6591CFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CED77467-87A0-46D1-B3C8-F6E1B6591CFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CED77467-87A0-46D1-B3C8-F6E1B6591CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CED77467-87A0-46D1-B3C8-F6E1B6591CFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CED77467-87A0-46D1-B3C8-F6E1B6591CFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5366013-43C4-468F-9AC7-F6BD2D020E94}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+D:\Works\Учеба\Academy\CinemaConsoleVer\CinemaConsoleVer\bin\Debug\net5.0\CinemaConsoleVer.exe
+D:\Works\Учеба\Academy\CinemaConsoleVer\CinemaConsoleVer\bin\Debug\net5.0\CinemaConsoleVer.deps.json
+D:\Works\Учеба\Academy\CinemaConsoleVer\CinemaConsoleVer\bin\Debug\net5.0\CinemaConsoleVer.runtimeconfig.json
+D:\Works\Учеба\Academy\CinemaConsoleVer\CinemaConsoleVer\bin\Debug\net5.0\CinemaConsoleVer.runtimeconfig.dev.json
+D:\Works\Учеба\Academy\CinemaConsoleVer\CinemaConsoleVer\bin\Debug\net5.0\CinemaConsoleVer.dll
+D:\Works\Учеба\Academy\CinemaConsoleVer\CinemaConsoleVer\bin\Debug\net5.0\ref\CinemaConsoleVer.dll
+D:\Works\Учеба\Academy\CinemaConsoleVer\CinemaConsoleVer\bin\Debug\net5.0\CinemaConsoleVer.pdb
+D:\Works\Учеба\Academy\CinemaConsoleVer\CinemaConsoleVer\obj\Debug\net5.0\CinemaConsoleVer.csproj.AssemblyReference.cache
+D:\Works\Учеба\Academy\CinemaConsoleVer\CinemaConsoleVer\obj\Debug\net5.0\CinemaConsoleVer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\Учеба\Academy\CinemaConsoleVer\CinemaConsoleVer\obj\Debug\net5.0\CinemaConsoleVer.AssemblyInfoInputs.cache
+D:\Works\Учеба\Academy\CinemaConsoleVer\CinemaConsoleVer\obj\Debug\net5.0\CinemaConsoleVer.AssemblyInfo.cs
+D:\Works\Учеба\Academy\CinemaConsoleVer\CinemaConsoleVer\obj\Debug\net5.0\CinemaConsoleVer.csproj.CoreCompileInputs.cache
+D:\Works\Учеба\Academy\CinemaConsoleVer\CinemaConsoleVer\obj\Debug\net5.0\CinemaConsoleVer.dll
+D:\Works\Учеба\Academy\CinemaConsoleVer\CinemaConsoleVer\obj\Debug\net5.0\ref\CinemaConsoleVer.dll
+D:\Works\Учеба\Academy\CinemaConsoleVer\CinemaConsoleVer\obj\Debug\net5.0\CinemaConsoleVer.pdb
+D:\Works\Учеба\Academy\CinemaConsoleVer\CinemaConsoleVer\obj\Debug\net5.0\CinemaConsoleVer.genruntimeconfig.cache
